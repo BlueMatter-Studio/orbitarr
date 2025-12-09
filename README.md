@@ -21,6 +21,18 @@ Take control of your movie and TV show collection with Orbitarr, the ultimate co
 
 ---
 
+---
+
+## 📱 Download
+
+<div align="start">
+
+[<img src="https://raw.githubusercontent.com/BlueMatter-Studio/orbitarr/main/apple.svg" alt="Download on the App Store" width="200">](https://apps.apple.com/in/app/orbitarr/id6755886015)
+
+</div>
+
+---
+
 ## Key Features
 
 ### 🎯 Smart Content Tracking
