@@ -10,7 +10,7 @@ Take control of your movie and TV show collection with Orbitarr, the ultimate co
 
 ---
 
-## 📱 Download
+## 📱 Android
 
 <div align="start">
 
@@ -23,7 +23,7 @@ Take control of your movie and TV show collection with Orbitarr, the ultimate co
 
 ---
 
-## 📱 Download
+## 📱 iOS
 
 <div align="start">
 
